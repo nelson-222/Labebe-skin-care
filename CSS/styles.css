@@ -1,0 +1,85 @@
+h1{
+    
+    /* color: #123B5A; */
+    text-transform: uppercase;
+    text-align: center;
+}
+.labe-color {
+    color: #ED6316;
+    font-size:60px ;
+    font-style: italic;
+}
+.labe-col2 {
+    color: #ED6316;
+    font-style: oblique;
+    text-shadow: 12px 12px 3px rgba(150, 150, 150, 1);
+}
+div {
+    height: 700px;
+    color: red;
+}
+.first-image {
+    background: url('./images/profile-image.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #bdf1e9;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.second-image {
+    background: url(./images/image1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+     justify-content: center;
+     align-items: center;
+     display: flex;
+    color: #bdf1e9;
+    font-size: 60px;
+}
+.third-image {
+    background: url(./images/image2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+     justify-content: center;
+     align-items: center;
+     display: flex;
+    text-align: center;
+    color: #bdf1e9;
+    font-size: 60px;
+}
+.forth-image {
+    background: url(./images/image3.jpeg);
+     background-size: cover;
+    background-attachment: fixed;
+     justify-content: center;
+     align-items: center;
+     display: flex;
+    text-align: center;
+    color: #bdf1e9;
+    font-size: 60px;
+}
+* {
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* .fa-brands {
+    color: red;
+    font-size: 1rem;
+    
+}
+.fa-sharp {
+    color: black;
+    font-size: 1rem;
+    margin: 5px;
+    padding: 20px, 30px, 30px, 20px;
+} */
